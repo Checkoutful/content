@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Statement for Personally Identifiable Information of Spring Subscriptions app
+---
+
 Privacy Statement for Personally Identifiable Information of Spring Subscriptions app
 
 Updated: June 27, 2021
